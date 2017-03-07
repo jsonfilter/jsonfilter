@@ -1,6 +1,6 @@
-package com.github.khankamranali.jsonfilter.impl.filter.expression;
+package com.github.jsonfilter.impl.filter.expression;
 
-import com.github.khankamranali.jsonfilter.JsonFilterException;
+import com.github.jsonfilter.JsonFilterException;
 
 public class NotExpression extends AbstractExpression {
 

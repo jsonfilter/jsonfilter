@@ -1,9 +1,9 @@
-package com.github.khankamranali.jsonfilter.impl.filter.expression;
+package com.github.jsonfilter.impl.filter.expression;
 
 import java.util.Collection;
 
-import com.github.khankamranali.jsonfilter.impl.filter.comparator.SimpleTypeComparator;
-import com.github.khankamranali.jsonfilter.impl.filter.parser.Operator;
+import com.github.jsonfilter.impl.filter.comparator.SimpleTypeComparator;
+import com.github.jsonfilter.impl.filter.parser.Operator;
 
 public class ValueExpression extends AbstractExpression implements FilterExpression {
 

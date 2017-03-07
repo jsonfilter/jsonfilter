@@ -1,4 +1,4 @@
-package com.github.khankamranali.jsonfilter.impl.filter.json;
+package com.github.jsonfilter.impl.filter.json;
 
 import java.io.IOException;
 import java.text.SimpleDateFormat;

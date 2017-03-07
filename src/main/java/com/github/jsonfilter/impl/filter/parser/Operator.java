@@ -1,10 +1,10 @@
-package com.github.khankamranali.jsonfilter.impl.filter.parser;
-
-import com.github.khankamranali.jsonfilter.JsonFilterException;
+package com.github.jsonfilter.impl.filter.parser;
 
 import java.util.EnumSet;
 import java.util.HashMap;
 import java.util.Map;
+
+import com.github.jsonfilter.JsonFilterException;
 
 /**
  * Operators = all the operators 

@@ -1,9 +1,9 @@
-package com.github.khankamranali.jsonfilter.impl.mr.m;
+package com.github.jsonfilter.impl.mr.m;
 
 import java.util.Collection;
 import java.util.Map;
 
-import com.github.khankamranali.jsonfilter.JsonFilterException;
+import com.github.jsonfilter.JsonFilterException;
 
 public class MapperImpl implements Mapper {
 	private Mapper mapper;

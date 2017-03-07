@@ -1,13 +1,12 @@
-package com.github.khankamranali.jsonfilter.impl.filter.comparator;
+package com.github.jsonfilter.impl.filter.comparator;
 
-import com.github.khankamranali.jsonfilter.JsonFilterException;
-import com.github.khankamranali.jsonfilter.impl.filter.parser.Operator;
+import com.github.jsonfilter.JsonFilterException;
+import com.github.jsonfilter.impl.filter.parser.Operator;
 
 public class SimpleTypeComparator {
 	/**
 	 * Compares the object value with the filter value.
 	 * 
-	 * @param object
 	 * @return
 	 */
 	@SuppressWarnings("unchecked")

@@ -1,4 +1,4 @@
-package com.github.khankamranali.jsonfilter.impl.filter.expression;
+package com.github.jsonfilter.impl.filter.expression;
 
 public class OrExpression extends AbstractExpression {
 

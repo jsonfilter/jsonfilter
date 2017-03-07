@@ -1,18 +1,18 @@
-package com.github.khankamranali.jsonfilter.impl.filter.parser;
+package com.github.jsonfilter.impl.filter.parser;
 
 import java.util.Collection;
 import java.util.Map;
 
-import com.github.khankamranali.jsonfilter.JsonFilterException;
-import com.github.khankamranali.jsonfilter.impl.filter.expression.AndExpression;
-import com.github.khankamranali.jsonfilter.impl.filter.expression.EmptyExpression;
-import com.github.khankamranali.jsonfilter.impl.filter.expression.FilterExpression;
-import com.github.khankamranali.jsonfilter.impl.filter.expression.NotExpression;
-import com.github.khankamranali.jsonfilter.impl.filter.expression.ObjectExpression;
-import com.github.khankamranali.jsonfilter.impl.filter.expression.OrExpression;
-import com.github.khankamranali.jsonfilter.impl.filter.expression.ValueExpression;
-import com.github.khankamranali.jsonfilter.impl.filter.json.JacksonJsonImpl;
-import com.github.khankamranali.jsonfilter.impl.filter.json.Json;
+import com.github.jsonfilter.JsonFilterException;
+import com.github.jsonfilter.impl.filter.expression.AndExpression;
+import com.github.jsonfilter.impl.filter.expression.EmptyExpression;
+import com.github.jsonfilter.impl.filter.expression.FilterExpression;
+import com.github.jsonfilter.impl.filter.expression.NotExpression;
+import com.github.jsonfilter.impl.filter.expression.ObjectExpression;
+import com.github.jsonfilter.impl.filter.expression.OrExpression;
+import com.github.jsonfilter.impl.filter.expression.ValueExpression;
+import com.github.jsonfilter.impl.filter.json.JacksonJsonImpl;
+import com.github.jsonfilter.impl.filter.json.Json;
 
 public class FilterParser {
 	private static Json json = new JacksonJsonImpl();

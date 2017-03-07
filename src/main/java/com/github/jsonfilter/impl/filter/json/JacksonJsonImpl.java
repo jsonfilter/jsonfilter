@@ -1,4 +1,4 @@
-package com.github.khankamranali.jsonfilter.impl.filter.json;
+package com.github.jsonfilter.impl.filter.json;
 
 import java.io.IOException;
 import java.util.List;
@@ -10,7 +10,7 @@ import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.module.SimpleModule;
-import com.github.khankamranali.jsonfilter.JsonFilterException;
+import com.github.jsonfilter.JsonFilterException;
 
 public class JacksonJsonImpl implements Json {
 	final private static ObjectMapper mapper = new ObjectMapper();

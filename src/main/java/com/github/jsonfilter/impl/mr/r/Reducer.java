@@ -1,4 +1,4 @@
-package com.github.khankamranali.jsonfilter.impl.mr.r;
+package com.github.jsonfilter.impl.mr.r;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;

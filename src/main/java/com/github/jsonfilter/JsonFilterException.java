@@ -1,4 +1,4 @@
-package com.github.khankamranali.jsonfilter;
+package com.github.jsonfilter;
 
 /**
  * Runtime exception is thrown when there is json filter parsing error or Bean

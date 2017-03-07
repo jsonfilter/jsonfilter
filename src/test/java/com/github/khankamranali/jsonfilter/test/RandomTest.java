@@ -11,7 +11,7 @@ import org.junit.Test;
 
 import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.databind.JsonMappingException;
-import com.github.khankamranali.jsonfilter.JsonFilter;
+import com.github.jsonfilter.JsonFilter;
 
 import edu.emory.mathcs.backport.java.util.Arrays;
 

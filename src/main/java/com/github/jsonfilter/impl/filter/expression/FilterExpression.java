@@ -1,11 +1,10 @@
-package com.github.khankamranali.jsonfilter.impl.filter.expression;
+package com.github.jsonfilter.impl.filter.expression;
 
 /**
  * 
  * 
  * @author Kamran Ali Khan (khankamranali@gmail.com)
  * 
- * @param <T>
  */
 public interface FilterExpression {
 

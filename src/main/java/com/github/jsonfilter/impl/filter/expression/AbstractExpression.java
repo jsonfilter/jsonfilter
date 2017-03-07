@@ -1,4 +1,4 @@
-package com.github.khankamranali.jsonfilter.impl.filter.expression;
+package com.github.jsonfilter.impl.filter.expression;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,7 +9,6 @@ import java.util.Map;
  * 
  * @author Kamran Ali Khan (khankamranali@gmail.com)
  * 
- * @param <T>
  */
 public abstract class AbstractExpression implements FilterExpression {
 

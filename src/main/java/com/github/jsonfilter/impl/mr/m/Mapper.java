@@ -1,4 +1,4 @@
-package com.github.khankamranali.jsonfilter.impl.mr.m;
+package com.github.jsonfilter.impl.mr.m;
 
 import java.util.Collection;
 
